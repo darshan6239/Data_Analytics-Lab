@@ -1,0 +1,32 @@
+# ==========================
+# Ignore raw datasets
+# ==========================
+Data/Raw/*.csv
+Data/Raw/*.zip
+Data/Raw/*.7z
+Data/Raw/*.rar
+
+# Ignore processed datasets
+Data/Processed/*.csv
+Data/Processed/*.parquet
+Data/Processed/*.xlsx
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.pyc
+
+# Virtual Environments
+venv/
+.env
+
+# VS Code
+.vscode/
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
