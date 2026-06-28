@@ -11,8 +11,6 @@ Data/Processed/*.csv
 Data/Processed/*.parquet
 Data/Processed/*.xlsx
 
-# Jupyter Notebook
-.ipynb_checkpoints/
 
 # Python
 __pycache__/
